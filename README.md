@@ -1,24 +1,26 @@
 # Linked-List-Implementation-CodTech
 
-COMPANY: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
-NAME: SHASHWAT SHUBHAM
+*NAME*: SHASHWAT SHUBHAM
 
-INTERN ID: CT04DG3340
+*INTERN ID*: CT04DG3340
 
-DOMAIN: C LANGUAGE
+*DOMAIN*: C LANGUAGE
 
-DURATION: 4 WEEKS
+*DURATION*: 4 WEEKS
 
-MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
-About Linked List Implementation in C
+
+
+**About Linked List Implementation in C**
 
 # Task 2: Singly Linked List Implementation in C
 
 ## Objective
 
-The goal of this task is to implement a **Singly Linked List** in the C programming language with basic operations:
+The goal of this task is to implement a *Singly Linked List* in the C programming language with basic operations:
 - Insertion at the beginning
 - Insertion at the end
 - Deletion by value
